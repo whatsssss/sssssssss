@@ -8,7 +8,7 @@ public class Connector {
 		for(int i = 0; i< 300; i++) {
 			
 			new Thread(
-					
+					//dd
 					()->{
 						try {
 							URL url = new URL("http://192.168.41.43:8080/web1/hello.jsp");
